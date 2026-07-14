@@ -1,6 +1,6 @@
 ---
 title: "Worklog Tuần 1"
-date: 2024-01-01
+date: 2025-05-21
 weight: 1
 chapter: false
 pre: " <b> 1.1. </b> "
@@ -12,8 +12,8 @@ pre: " <b> 1.1. </b> "
 
 ### Mục tiêu tuần 1:
 
-* Kết nối, làm quen với các thành viên trong First Cloud AI Journey.
-* Hiểu dịch vụ AWS cơ bản, cách dùng console & CLI.
+* Làm quen môi trường thực tập, kết nối với các bạn cùng chương trình First Cloud AI Journey (FCAJ).
+* Tìm hiểu dịch vụ AWS cơ bản.
 
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
